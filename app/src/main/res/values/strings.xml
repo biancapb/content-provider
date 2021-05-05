@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ContentProvider</string>
+    <string name="note_title_hint">Titulo</string>
+    <string name="note_description_hint">Descrição</string>
 </resources>
